@@ -1,7 +1,11 @@
 # SYNAPSE
 A systems design proposal for a dual-cache, quantum-inspired memory architecture for AI agents.
+
+---
+
 <img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/e075c1be-a26b-4f69-bb26-62c8d99218f0" />
 
+---
 
 # Architecture
 
